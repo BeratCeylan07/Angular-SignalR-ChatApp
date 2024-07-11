@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/03cf04de-6ecb-4e43-b0b1-f828c805c71b.png",
+      "PackagePath": "staticwebassets/avatar/03cf04de-6ecb-4e43-b0b1-f828c805c71b.png"
+    },
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/17beaeac-4323-4f77-90e6-15a3e7711a15.png",
+      "PackagePath": "staticwebassets/avatar/17beaeac-4323-4f77-90e6-15a3e7711a15.png"
+    },
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/c0d60fe1-cde6-4db5-a72a-02a63672065f.png",
+      "PackagePath": "staticwebassets/avatar/c0d60fe1-cde6-4db5-a72a-02a63672065f.png"
+    },
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/ca04e629-ebbf-4f81-acd8-1616864954a0.png",
+      "PackagePath": "staticwebassets/avatar/ca04e629-ebbf-4f81-acd8-1616864954a0.png"
+    },
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/d7ddd37d-676d-47ca-b9b9-cb64ad8a04ea.png",
+      "PackagePath": "staticwebassets/avatar/d7ddd37d-676d-47ca-b9b9-cb64ad8a04ea.png"
+    },
+    {
+      "Id": "/Users/beratceylan/Downloads/NET_Angular_SignalR_ile_ChatApp-main/ChatAppServer/ChatAppServer.WebAPI/wwwroot/avatar/e1eb1e28-0987-4c22-877a-39cb86f955bc.png",
+      "PackagePath": "staticwebassets/avatar/e1eb1e28-0987-4c22-877a-39cb86f955bc.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ChatAppServer.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ChatAppServer.WebAPI.props",
+      "PackagePath": "build\\ChatAppServer.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ChatAppServer.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppServer.WebAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ChatAppServer.WebAPI.props",
+      "PackagePath": "buildTransitive\\ChatAppServer.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
